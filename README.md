@@ -1,6 +1,7 @@
-Hi
-
-telescope I’m currently working with TCS INDIA for NCRA PUNE as System Engineer with competence in control system development highly skilled in tango controls and python docker and kubernetes
-
+Plotly.toImage('myPlot', {format: 'png', height: 500, width: 700}).then(function (url) {
+  var img = document.createElement('img');
+  img.src = url;
+  document.body.appendChild(img);
+});
 
 
